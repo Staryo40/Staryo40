@@ -6,7 +6,7 @@
 - 🔥 Looking forward to the progress I make from now on
 
 <a href="https://github.com/Staryo40/convoychat">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staryo40&layout=compact&langs_count=12" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staryo40&layout=compact&langs_count=12&theme=holi" />
 </a>
 
 
