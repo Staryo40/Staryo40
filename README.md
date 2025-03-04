@@ -1,4 +1,4 @@
 # Staryo40 です👋
 このプロファイル誰にも言わないでください  
 
-![My top languages stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Staryo40&layout=compact)
+![My top languages stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Staryo40&layout=compact&langs_count=12)
